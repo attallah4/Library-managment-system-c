@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1697644803 source:c:\users\alahram\documents\hacker_rank_test\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	"Funcs_Interface.h"
+	"library_Interface.h"
+
+1694176135 source:c:\users\alahram\documents\hacker_rank_test\test.c
+	<stdio.h>
+
+1697483284 c:\users\alahram\documents\hacker_rank_test\funcs_interface.h
+	"library_Interface.h"
+
+1697447641 source:c:\users\alahram\documents\hacker_rank_test\funcs.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"library_Interface.h"
+
+1697489968 c:\users\alahram\documents\hacker_rank_test\library_interface.h
+
+1697494624 source:c:\users\alahram\documents\hacker_rank_test\library.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	"Funcs_Interface.h"
+	"library_Interface.h"
+
+1697710513 source:c:\users\alahram\documents\hacker_rank_test\vehical_cs.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	"Funcs_Interface.h"
+	"Vehical_cs_Interface.h"
+
+1697709445 c:\users\alahram\documents\hacker_rank_test\vehical_cs_interface.h
+
